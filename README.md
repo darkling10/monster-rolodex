@@ -2,12 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Hosting Webiste
+## Hosting Webiste
 
 The website is hosted with the help of Github Pages.
 [Link of Site](https://darkling10.github.io/monster-rolodex/)
 
-##Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
