@@ -16,3 +16,6 @@
 .card-container:hover {
   transform: scale(1.05);
 }
+h1{
+  font-size: x-large;
+}
